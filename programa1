@@ -1,11 +1,3 @@
-#include <iostream> // USAMOS: cin, cout
-
-    void main() { 
-        double d1, d2; 
-        out << "Introduce dos reales: "; 
-        cin >> d1 >> d2; 
-        cout << "La suma es: " << d1 + d2 << endl 
-    }
 #include<iostream>
 int main()
 {
